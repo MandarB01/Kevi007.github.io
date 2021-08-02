@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://kevinjames007.me/sitemap.xml
+Host: kevinjames007.me
